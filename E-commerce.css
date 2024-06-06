@@ -1,0 +1,333 @@
+.container1 {
+  background-color: black;
+  color: white;
+  width: auto;
+  height: 30px;
+  padding-bottom: 10px;
+  border: 1px solid black;
+}
+#a {
+  margin-top: 10px;
+  margin-left: 20px;
+  color: white;
+}
+#b {
+  color: white;
+  margin-top: -40px;
+  margin-left: 40px;
+}
+#c {
+  margin-top: -38px;
+  margin-left: 200px;
+  color: white;
+}
+#d {
+  color: white;
+  margin-top: -36px;
+  margin-left: 220px;
+}
+#e {
+  color: white;
+  margin-top: -40px;
+  margin-left: 580px;
+}
+#f {
+  margin-top: -38px;
+  margin-left: 850px;
+}
+a {
+  color: white;
+}
+a:hover {
+  color: gray;
+}
+#g {
+  margin-top: -30px;
+  margin-left: 1420px;
+}
+select {
+  padding: 10px;
+  border: none;
+  font-family: Copperplate Gothic;
+}
+
+.container2 {
+  background-color: white;
+  height: 150px;
+  width: auto;
+  position: sticky;
+  top: 0px;
+  border: 1px solid transparent;
+  font-family: Copperplate Gothic;
+  z-index: 1;
+}
+input[type="search"] {
+  border: none;
+  border-bottom: 1px solid black;
+  padding: 15px;
+  width: 220px;
+  margin: 20px;
+}
+input[type="search"]:focus {
+  outline: 0;
+}
+
+#h {
+  margin-left: 200px;
+  margin-top: -52px;
+}
+#i {
+  margin-left: 700px;
+  margin-top: -50px;
+}
+#j {
+  margin-left: -160px;
+  margin-top: 20px;
+}
+#k {
+  margin-left: -50px;
+  margin-top: -37px;
+}
+#l {
+  margin-left: 60px;
+  margin-top: -37px;
+}
+#m {
+  margin-left: 190px;
+  margin-top: -37px;
+}
+#n {
+  margin-left: 300px;
+  margin-top: -37px;
+}
+#o {
+  margin-left: 700px;
+  margin-top: -87px;
+}
+#p {
+  margin-left: 730px;
+  margin-top: -17px;
+}
+#q {
+  margin-left: 760px;
+  margin-top: -17px;
+}
+
+.container3 {
+  margin-left: 10px;
+}
+.topright {
+  position: absolute;
+  top: 350px;
+  right: 150px;
+  color: white;
+  font-size: 35px;
+  font-family: Copperplate Gothic;
+}
+input[type="button"] {
+  background-color: transparent;
+  padding: 15px 30px 15px 30px;
+  border: 3px solid white;
+  color: white;
+}
+#r {
+  margin-top: -30px;
+  margin-left: 250px;
+}
+#s {
+  margin-top: 100px;
+  text-align: center;
+  font-family: Copperplate Gothic;
+}
+.container4 {
+  display: flex;
+  justify-content: center;
+  border: 1px solid transparent;
+  background-color: white;
+  margin-right: 5px;
+  font-family: Copperplate Gothic;
+}
+.flex-child1 {
+  margin: 40px;
+  white-space: pre-line;
+  border: 1px solid transparent;
+  text-align: center;
+  width: 100%;
+  transition: all 0.6s;
+}
+.flex-child1:hover {
+  border: 1px solid white;
+  transform: scale(1.1);
+}
+#t {
+  margin-top: 50px;
+  text-align: center;
+  font-family: Copperplate Gothic;
+}
+.container5 {
+  display: flex;
+  justify-content: center;
+  border: 1px solid transparent;
+  background-color: white;
+  margin-right: 0px;
+  font-family: Copperplate Gothic;
+}
+.flex-child2 {
+  margin: 40px;
+  white-space: pre-line;
+  border: 1px solid transparent;
+  text-align: center;
+  transition: 0.5s;
+}
+.flex-child2:hover {
+  background-color: white;
+  transform: scale(1);
+  border: 1px solid white;
+}
+.container6 {
+  float: right;
+  margin-right: 200px;
+  margin-top: -480px;
+}
+#u {
+  font-family: Copperplate Gothic;
+  margin-top: 200px;
+  margin-left: 200px;
+  font-size: 25px;
+}
+p {
+  width: 400px;
+  font-size: 16px;
+  font-family: "Courier New", Courier, monospace;
+}
+#v {
+  margin-top: 40px;
+  margin-left: 200px;
+}
+input[type="reset"] {
+  background-color: gray;
+  color: white;
+  padding: 15px 35px 15px 35px;
+}
+
+.container7 {
+  position: relative;
+  margin-top: 180px;
+}
+.centerd {
+  position: absolute;
+  top: 40%;
+  right: 30%;
+  color: white;
+  font-size: 35px;
+  font-family: Copperplate Gothic;
+}
+#w {
+  font-size: 25px;
+  text-align: center;
+}
+input[type="button"] {
+  background-color: transparent;
+  padding: 15px 30px 15px 30px;
+  border: 3px solid white;
+  color: white;
+}
+#x {
+  margin-top: -70px;
+  margin-left: 650px;
+}
+#y {
+  text-align: center;
+  font-family: Copperplate Gothic;
+  margin-top: 100px;
+}
+.container8 {
+  display: flex;
+  justify-content: center;
+  border: 1px solid transparent;
+  background-color: white;
+  margin-right: 5px;
+  font-family: Copperplate Gothic;
+  margin-top: 100px;
+  flex-wrap: nowrap;
+}
+.flex-child3 {
+  margin: 20px;
+  white-space: pre-line;
+  border: 1px solid transparent;
+  text-align: left;
+  transition: 0.5s;
+}
+.flex-child3:hover {
+  transform: scale(1.1);
+}
+.z {
+  margin-top: -40px;
+}
+.y {
+  margin-top: 10px;
+  font-size: 10px;
+}
+p {
+  margin-top: -5px;
+  margin-left: 10px;
+}
+.container9 {
+  display: flex;
+  align-items: center;
+  margin-right: 5px;
+  border: 1px solid transparent;
+  background-color: white;
+  font-family: Copperplate Gothic;
+  flex-direction: column;
+  background-color: black;
+  color: white;
+  height: 200px;
+}
+.flex-child4 {
+  margin-top: 600px;
+  margin: 20px;
+  font-size: 40px;
+}
+input[type="email"] {
+  border: none;
+  border-bottom: 2px solid white;
+  width: 700px;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  margin-top: -30px;
+}
+input[type="email"]:focus {
+  outline: 0;
+}
+::placeholder {
+  color: lightcoral;
+}
+#aa {
+  margin-top: -95px;
+  margin-left: 550px;
+  font-size: 15px;
+}
+.container10 {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid transparent;
+  background-color: white;
+  font-family: Copperplate Gothic;
+  flex-wrap: nowrap;
+  margin-top: 50px;
+}
+.flex-child5 {
+  margin-top: 15px;
+}
+.bb {
+  margin-bottom: 20px;
+}
+.flex-child6 {
+  margin-top: 3px;
+}
+.flex-child7 {
+  margin-left: -200px;
+}
